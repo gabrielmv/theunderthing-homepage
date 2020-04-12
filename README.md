@@ -1,3 +1,3 @@
 # theunderthing-homepage
 
-The homrpage for the underthing.tech
+The homepage for the underthing.tech
